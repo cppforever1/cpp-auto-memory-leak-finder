@@ -1,0 +1,48 @@
+# C++ build and IDE files
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+DartConfiguration.tcl
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.out
+*.log
+*.user
+*.swp
+*.swo
+*.bak
+*.tmp
+*.d
+*.dll
+*.lib
+*.pch
+*.class
+*.bin
+*.dat
+*.pdb
+*.idb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+# OS generated
+.DS_Store
+Thumbs.db
+# Test and coverage
+Testing/
+*.gcno
+*.gcda
+*.gcov
+# Others
+MemoryLeak.txt
